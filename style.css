@@ -19,7 +19,7 @@ body {
 
 section {
   padding: 20px 10px;
-  max-width: 90px;
+  max-width: 900px;
   margin: auto;
 }
 
@@ -68,7 +68,7 @@ footer {
 }
 
 .gallery img {
-    max-width: 210px;
+    max-width: 21px;
     width: 65%;
     border-radius: 12px;
     box-shadow: 0 8px 20px rgba(0,0,0,0.15);  
