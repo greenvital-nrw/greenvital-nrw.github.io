@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://greenvital.github.io/</loc>
+    <loc>https://greenvital-nrw.github.io/</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
+
   <url>
-    <loc>https://greenvital.github.io/impressum.html</loc>
+    <loc>https://greenvital-nrw.github.io/impressum.html</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
+
   <url>
-    <loc>https://greenvital.github.io/datenschutz.html</loc>
+    <loc>https://greenvital-nrw.github.io/datenschutz.html</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
+
 </urlset>
