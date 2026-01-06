@@ -37,3 +37,11 @@ body {
     border-radius: 4px;
     font-weight: bold;
 }
+section {
+        max-width: 900xp;
+        margin: 0 auto;
+        padding: 60xp 20xp;
+    }
+section {
+        margin-top: 0;
+}
